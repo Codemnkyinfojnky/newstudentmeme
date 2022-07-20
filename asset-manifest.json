@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newstudentmeme/static/css/main.e6c13ad2.css",
+    "main.js": "/newstudentmeme/static/js/main.463c0b64.js",
+    "index.html": "/newstudentmeme/index.html",
+    "main.e6c13ad2.css.map": "/newstudentmeme/static/css/main.e6c13ad2.css.map",
+    "main.463c0b64.js.map": "/newstudentmeme/static/js/main.463c0b64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.463c0b64.js"
+  ]
+}
